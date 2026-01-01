@@ -256,5 +256,3 @@ logging:
   log_dir: runs/mlp_experiment
   checkpoint_dir: models/mlp
 ```
-
-If anything in this README doesn't match the current repository layout or you need a specific example (e.g., how to add a new model or how to run on a real recorded dataset), tell me what part you want expanded and I will add a runnable example and any missing scripts or configs.
